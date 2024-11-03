@@ -6,7 +6,7 @@ Bachelor of Science in Information Technology
 
 2023-Present
 ## Certifications
-
+https://apps.cognitiveclass.ai/learning/course/course-v1:BDU+DB0101EN+v1/progress
 ## Skillsets
 Soft Skills
 
