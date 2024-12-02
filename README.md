@@ -6,7 +6,7 @@ Bachelor of Science in Information Technology
 
 2023-Present
 ## Certifications
-[SQL AND DATABASES 101](https://courses.cognitiveclass.ai/certificates/3089e73fa68a425fb2ef58b97560e060)
+[SQL and Relational Databases 101](https://courses.cognitiveclass.ai/certificates/3089e73fa68a425fb2ef58b97560e060)
 ## Skillsets
 Soft Skills
 
